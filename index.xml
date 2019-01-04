@@ -2,39 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Jones</title>
-    <link>https://swsgit.github.io/</link>
+    <link>https://swsgit.github.com/</link>
     <description>Recent content on Mark Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Dec 2018 18:21:09 -0800</lastBuildDate>
     
-	<atom:link href="https://swsgit.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swsgit.github.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Biography</title>
-      <link>https://swsgit.github.io/biography/biography/</link>
+      <link>https://swsgit.github.com/biography/biography/</link>
       <pubDate>Wed, 26 Dec 2018 18:21:09 -0800</pubDate>
       
-      <guid>https://swsgit.github.io/biography/biography/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra.</description>
+      <guid>https://swsgit.github.com/biography/biography/</guid>
+      <description>Mark Jones began his writing career in Saturday morning cartoons, selling his first script to Filmation Studios. From there, he went on-staff at DePatie-Freleng, where he was mentored by the famed Warner Bros cartoon director, Friz Freleng, developing animated series and writing the Saturday Morning “Mister Magoo” cartoon show for CBS, and the “Pink Panther” show for NBC.
+Jones was then hired by Joseph Barbera to develop and write for Hanna-Barbera Studios’ Saturday morning line-up.</description>
     </item>
     
     <item>
       <title>FRANCAIS Portfolio</title>
-      <link>https://swsgit.github.io/portfolio/_index.fr/</link>
+      <link>https://swsgit.github.com/portfolio/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
       
-      <guid>https://swsgit.github.io/portfolio/_index.fr/</guid>
+      <guid>https://swsgit.github.com/portfolio/_index.fr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A propos de nous ...</title>
-      <link>https://swsgit.github.io/about/_index.fr/</link>
+      <link>https://swsgit.github.com/about/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
       
-      <guid>https://swsgit.github.io/about/_index.fr/</guid>
+      <guid>https://swsgit.github.com/about/_index.fr/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Mark Jones</title>
-    <link>https://swsgit.github.io/about/</link>
+    <link>https://swsgit.github.com/about/</link>
     <description>Recent content in About on Mark Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
     
-	<atom:link href="https://swsgit.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swsgit.github.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A propos de nous ...</title>
-      <link>https://swsgit.github.io/about/_index.fr/</link>
+      <link>https://swsgit.github.com/about/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
       
-      <guid>https://swsgit.github.io/about/_index.fr/</guid>
+      <guid>https://swsgit.github.com/about/_index.fr/</guid>
       <description></description>
     </item>
     
