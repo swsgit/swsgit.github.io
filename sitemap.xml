@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swsgit.github.io/biography/biography/</loc>
+    <loc>http://localhost:1313/biography/biography/</loc>
     <lastmod>2018-12-26T18:21:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/portfolio/_index.fr/</loc>
+    <loc>http://localhost:1313/portfolio/_index.fr/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/about/_index.fr/</loc>
+    <loc>http://localhost:1313/about/_index.fr/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/biography/</loc>
+    <loc>http://localhost:1313/biography/</loc>
     <lastmod>2018-12-26T18:21:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2018-12-26T18:21:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://swsgit.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <priority>0</priority>
   </url>
   
