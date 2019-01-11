@@ -11,4 +11,7 @@ $(document).ready(function() {
     openEffect : 'none',
     closeEffect : 'none'
   });
+
+  $('.fancybox')
+      .fancybox({toolbar : false, smallBtn : true, iframe : {preload : false}})
 })
