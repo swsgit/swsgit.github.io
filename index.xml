@@ -1,51 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mark Jones</title>
+    <title>Audioimpressions | lorem ipsum</title>
     <link>https://swsgit.github.io/</link>
-    <description>Recent content on Mark Jones</description>
+    <description>Recent content on Audioimpressions | lorem ipsum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Dec 2018 18:21:09 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="https://swsgit.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Biography</title>
-      <link>https://swsgit.github.io/biography/biography/</link>
-      <pubDate>Wed, 26 Dec 2018 18:21:09 -0800</pubDate>
+      <title>Are You Doing the Right Way</title>
+      <link>https://swsgit.github.io/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://swsgit.github.io/biography/biography/</guid>
-      <description>Mark Jones began his writing career in Saturday morning cartoons, selling his first script to Filmation Studios. From there, he went on-staff at DePatie-Freleng, where he was mentored by the famed Warner Bros cartoon director, Friz Freleng, developing animated series and writing the Saturday Morning “Mister Magoo” cartoon show for CBS, and the “Pink Panther” show for NBC.
-Jones was then hired by Joseph Barbera to develop and write for Hanna-Barbera Studios’ Saturday morning line-up.</description>
+      <guid>https://swsgit.github.io/blog/are-you-doing-the-right-way/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
     </item>
     
     <item>
-      <title>FRANCAIS Contactez Nous</title>
-      <link>https://swsgit.github.io/contact/_index.fr/</link>
-      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
+      <title>Simple Post Title</title>
+      <link>https://swsgit.github.io/blog/simple-post-title/</link>
+      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
       
-      <guid>https://swsgit.github.io/contact/_index.fr/</guid>
-      <description></description>
+      <guid>https://swsgit.github.io/blog/simple-post-title/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
     </item>
     
     <item>
-      <title>FRANCAIS Portfolio</title>
-      <link>https://swsgit.github.io/portfolio/_index.fr/</link>
-      <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
+      <title>Simple Image Post</title>
+      <link>https://swsgit.github.io/blog/simple-image-post/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://swsgit.github.io/portfolio/_index.fr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A propos de nous ...</title>
-      <link>https://swsgit.github.io/about/_index.fr/</link>
-      <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
-      
-      <guid>https://swsgit.github.io/about/_index.fr/</guid>
-      <description></description>
+      <guid>https://swsgit.github.io/blog/simple-image-post/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
     </item>
     
   </channel>
