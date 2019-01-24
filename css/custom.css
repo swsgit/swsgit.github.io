@@ -1,3 +1,7 @@
+.navigation .logo {
+  padding: 1vh;
+}
+
 .parallax{
     -webkit-animation:100s scroll infinite linear;
     -moz-animation:100s scroll infinite linear;
